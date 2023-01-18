@@ -15,11 +15,12 @@
 
  <br>
  
-  ### Para mais informações me segue nas redes abaixo!
+  ### Para mais informações me segue nas redes sociais abaixo!
  
 <div> 
   <a href="https://www.instagram.com/ph.caijano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/raphael-veiga-777b20223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.facebook.com/raphael.veiga.56808/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
  
  ### Email para contato!
 
